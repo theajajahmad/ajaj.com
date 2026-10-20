@@ -1,0 +1,25 @@
+AJAj AHMAD
+Software Engineer
+
+Skills:
+PHP | Laravel | Python | Django | MySQL | HTML | CSS | JavaScript | Bootstrap
+
+Education:
+BCA
+
+Email:
+ajajahmad0info@gmail.com
+
+Phone / WhatsApp:
++91 99193 84366
+
+Location:
+India
+
+Projects:
+School Management System
+Employee Management System
+E-commerce Website
+Django CRUD App
+College Website
+Developer Portfolio

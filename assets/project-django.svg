@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#061a36"/><stop offset=".55" stop-color="#0b5a9e"/><stop offset="1" stop-color="#ff2633"/></linearGradient></defs>
+<rect width="1000" height="600" fill="url(#g)"/><circle cx="800" cy="120" r="220" fill="#fff" opacity=".05"/><rect x="55" y="55" width="890" height="490" rx="30" fill="#061a36" opacity=".8" stroke="#4fc3ff" stroke-opacity=".3"/>
+<text x="100" y="180" font-family="Arial" font-size="76" font-weight="900" fill="#fff">DJANGO</text>
+<text x="100" y="280" font-family="Arial" font-size="48" font-weight="800" fill="#fff">Django CRUD App</text>
+<text x="100" y="330" font-family="Arial" font-size="23" fill="#a9d8ff">Python • Django • Database</text>
+<rect x="100" y="390" width="280" height="10" rx="5" fill="#ff2633"/><rect x="100" y="420" width="500" height="8" rx="4" fill="#2db7ff" opacity=".5"/>
+</svg>
